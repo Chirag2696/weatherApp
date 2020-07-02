@@ -1,0 +1,22 @@
+html, body{
+   
+    margin: 0;
+    width: 100%;
+    background-color: darkgrey;
+    
+   
+}
+.container{
+    background-color: gainsboro;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.container h1{
+    background-color: gold;
+}
+.container div{
+    margin: 5px;
+    background-color: burlywood;
+}
